@@ -1,4 +1,4 @@
-# Meteor Slack
+# Meteor Slack (Now called [SpaceTalk](http://github.com/SpaceTalk/SpaceTalk))
 
 A chat application made in 25 steps, and designed to look a little bit like Slack.
 
@@ -50,6 +50,27 @@ Thanks to [@timbrandin](https://twitter.com/timbrandin) who created this materia
 * Oscar ([@oscrse](https://twitter.com/oscrse))
 * Patrik ([@gopatrik](https://twitter.com/gopatrik))
 * Per Fredelius ([@worldsayshi](https://github.com/worldsayshi))
-* Robin Lindh Nilsson (?)
+* Robin Lindh Nilsson ([@RobinerdMusic](https://twitter.com/RobinerdMusic))
 * Tim Brandin ([@timbrandin](https://twitter.com/timbrandin))
 * Tobias Tikka ([@tobiastikka](https://twitter.com/tobiastikka))
+
+### License
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+MA  02110-1301, USA.
+
+-------
+
+Copyright © 2015 Tim Brandin
